@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	evdev "github.com/groove-x/golang-evdev"
+	evdev "github.com/gvalkov/golang-evdev"
 )
 
 const (
